@@ -39,9 +39,9 @@ Simply open the `index.html` file in your preferred web browser to jump straight
 
 1. Clone this repository:
 2. Navigate to the project directory:
-   ```bash
+   ``bash
    cd caught-modi
-   ```
+   ``
 3. Open `index.html` in your web browser. (Double click, or use a local server like Live Server if you wish).
 
 ##  Developer Notes
