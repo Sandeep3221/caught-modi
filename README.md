@@ -38,9 +38,6 @@ Simply open the `index.html` file in your preferred web browser to jump straight
 ##  How to Run Locally
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/Sunil56224972/caught-modi.git
-   ```
 2. Navigate to the project directory:
    ```bash
    cd caught-modi
