@@ -48,6 +48,3 @@ Simply open the `index.html` file in your preferred web browser to jump straight
 
 This game was an incredibly fun project built to experiment with `Three.js` and endless runner mechanics on the web. It demonstrates how to combine simple geometries, custom textures, and basic physics (gravity & velocity) into a cohesive WebGL experience!
 
----
-
-**Developed with ❤️ by Sunil**
